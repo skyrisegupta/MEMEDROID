@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MemeShare</string>
+    <string name="creator">Akash Gupta</string>
+    <string name="share">Share</string>
+    <string name="next">Next</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="toggle">Toggle Dark Mode</string>
+</resources>
