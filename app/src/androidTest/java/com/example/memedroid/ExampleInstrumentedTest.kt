@@ -1,4 +1,4 @@
-package com.example.memeshare
+package com.example.memedroid
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
